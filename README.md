@@ -111,6 +111,6 @@ kubectl describe deployment suraj-app
 
 <br>
   
-This assignment will help me  understand how to manage Kubernetes deployments, handle Docker image versions, modify applications in running pods, and perform rollbacks in case of issues.
+This implementation will help me  understand how to manage Kubernetes deployments, handle Docker image versions, modify applications in running pods, and perform rollbacks in case of issues.
 
 
