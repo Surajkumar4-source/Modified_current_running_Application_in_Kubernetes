@@ -114,3 +114,21 @@ kubectl describe deployment suraj-app
 This implementation will help me  understand how to manage Kubernetes deployments, handle Docker image versions, modify applications in running pods, and perform rollbacks in case of issues.
 
 
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+
+**👨‍💻 𝓒𝓻𝓪𝓯𝓽𝓮𝓭 𝓫𝔂**: [Suraj Kumar Choudhary](https://github.com/Surajkumar4-source) | 📩 **𝓕𝓮𝓮𝓵 𝓯𝓻𝓮𝓮 𝓽𝓸 𝓓𝓜 𝓯𝓸𝓻 𝓪𝓷𝔂 𝓱𝓮𝓵𝓹**: [csuraj982@gmail.com](mailto:csuraj982@gmail.com)
+
+
+
+
+
+<br>
