@@ -1,5 +1,5 @@
 
-# Assignment: Docker & Kubernetes Deployment, Image Management, and Rollback
+# Docker & Kubernetes Deployment, Image Management, Rollout and Rollback.
 
 ### Objective:
 
