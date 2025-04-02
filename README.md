@@ -1,7 +1,8 @@
 
 # Assignment: Docker & Kubernetes Deployment, Image Management, and Rollback
-Objective:
-<br>
+
+### Objective:
+
 
 1. Create a Kubernetes deployment.
 2. Build a Docker image from the application.
@@ -92,13 +93,6 @@ kubectl rollout undo deployment/suraj-app
 ```yml
 kubectl describe deployment suraj-app
 ```
-
-<br>
-
-## Deliverables:
-- A sequence of commands executed to deploy the application, build and push the image, modify the application, update the Kubernetes deployment, and rollback if necessary.
-  
-- Screenshots or logs showing the status of the deployment at different stages (initial deployment, updated image, modification, and rollback).
 
 
 
